@@ -1,2 +1,2 @@
 # SumOfParallelResistances
-python small project of ' The sum of the parallel resistances that are connected '
+python small project of ' The sum of 10 the parallel resistances that are connected '
